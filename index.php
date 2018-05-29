@@ -1,3 +1,5 @@
 <?php
-phpinfo();
+sleep(70);
+echo("Hello Feras");
 ?>
+
